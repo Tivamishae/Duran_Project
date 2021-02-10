@@ -8,3 +8,5 @@
 - If you want to print a list of users registered in database use DURAN_project_registered_users.py
 
 - As of right now, whenever the "´" button is pressed the program crashes.
+
+- Test_parts are just my test files which I used to make the different parts of the main file Duran_project_main_code.py
